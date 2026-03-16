@@ -64,3 +64,18 @@ inside the selected directory.
 ## Output Structure
 
 Example:
+
+
+---
+
+## Notes
+
+- Supports both **single-image processing** and **full folder batch processing**.
+- Output files always use **PNG format** to preserve transparency.
+- The executable and the original Python source code are available in the repository and the **Releases** tab.
+
+---
+
+## License
+
+This project is open source under the **MIT License**.
