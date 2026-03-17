@@ -55,21 +55,9 @@ All processed files are exported as **PNG images with transparent backgrounds**.
 - Run the program normally.
 - Select a folder when the file dialog appears.
 
-3. The program processes all supported images.
-4. Results are saved in a folder named:
+The program processes all supported images. Results are saved in a folder named: RemBG'dImgs
+<img width="769" height="527" alt="Tutorial" src="https://github.com/user-attachments/assets/85d16a13-b054-4fec-95b1-5c008c18362d" />
 
-`RemBG'dImgs`
-
-inside the selected directory.
-
----
-
-## Output Structure
-
-Example:
-
-
----
 
 ## Notes
 
