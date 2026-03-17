@@ -1,4 +1,7 @@
 # RemBG-Utility-Tool
+
+<img width="600" height="600" alt="RemBG Utility Tool Icon" src="https://github.com/user-attachments/assets/0ec27e6c-47a7-469c-937e-b70a9616e503" />
+
 **RemBG Batch Background Remover** is a lightweight desktop utility that automatically removes backgrounds from **images or entire folders of images** using AI. Built with **Python**, **rembg**, and **Tkinter**, it provides a simple workflow for quickly generating transparent PNG images with backgrounds removed.
 
 The tool supports **drag-and-drop files or folders**, folder selection dialogs, and automatic batch processing.
